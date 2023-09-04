@@ -1,0 +1,2 @@
+#!/binbash
+find . -type d ! -path , | wc -l
